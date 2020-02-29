@@ -1,0 +1,17 @@
+[
+    {
+        "modid": "xysaferail",
+        "name": "XySafeRail",
+        "version": "0.0.1-SNAPSHOT-Test",
+        "description": "一个简单的刷铁轨BUG修复插件",
+        "authorList": [
+            "Xy718"
+        ],
+        "dependencies": [
+            "spongeapi@7.1.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.1.0"
+        ]
+    }
+]
